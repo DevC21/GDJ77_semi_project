@@ -263,7 +263,7 @@ public class UserServiceImpl implements UserService {
         out.println("<script>");
         out.println("alert('일치하는 회원 정보가 없습니다.')");
         out.println("location.href='" + request.getHeader("referer") + "'");
-//        out.println("location.href='" + request.getContextPath() + "/main.page");
+        //out.println("location.href='" + request.getContextPath() + "/signin.page");
         out.println("</script>");
         out.flush();
         out.close();

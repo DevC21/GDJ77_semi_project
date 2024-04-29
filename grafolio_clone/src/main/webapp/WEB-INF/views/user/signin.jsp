@@ -53,6 +53,7 @@
 		        <input type="password" class="text-input" id="pw" name="pw" placeholder="비밀번호를 입력해주세요.">
 		        <div class="eye-pw"><i class="fa-regular fa-eye-slash" style="color: #d8dfdf;" width="26px" height="16px"></i></div>
 		      </div>
+		      <div class="msg-login" id="msg-login"></div>
 		    </div>
 		    <div class="login-frm-btn">
 		      <input type="hidden" name="url" value="${url}">
