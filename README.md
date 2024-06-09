@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-이 프로젝트는 Grafolio의 UI와 UX를 비슷하게 구현하는 것에 중점을 두었습니다.
+이 프로젝트는 [OGQ Grafolio](https://grafolio.ogq.me/)의 UI와 UX를 비슷하게 구현하는 것에 중점을 두었습니다.
 
 ### 사용 기술
 - **개발환경**: STS, Notepad++
