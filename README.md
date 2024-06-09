@@ -10,6 +10,7 @@
 - **백엔드**: Java, Spring Legacy
 - **데이터베이스**: Oracle SQL Developer
 - **서버**: Tomcat
+- **버전관리**: Git, GitHub
 
 ### 제작 인원
 
